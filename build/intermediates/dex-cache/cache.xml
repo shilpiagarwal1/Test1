@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_7dc5ee6c8c55de6790fdf4b88e4f3d52e3dc54d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_05492be675dd865345d24e6cccebbb6652e95b71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d55612e5f33319fa70e39e44e187bcf4c144b5ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6c06c8613d9216849bc376a2ea33730a719bd437.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_83b6335c6d855427e43c833b15b228f1a4a11ead.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_023a1e8cee9ff8a2e826e72e8ed138242a848c15.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_780a4a6ad3dd8dae0df9d689a35419b593763d8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_6e77cdefcea45f647eaea3484abfe5ec211bdd25.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b97cec1c6cb008c1c6966f5e7b1fe385f1a016a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_da2f5e1585a4e66b2ce77c7ff4932724d1e44251.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_813e268a3c4d00e146a7efa5029ab634c309478b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_eca84bbaae7aa4e38009249cfb19a18a6e3c048e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_a0c08a5a59ae6b48f83a11a12b677a3bbeeb6d11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_3f33ade74e5e4765c52c07b405e0872d4348b67a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_fae42cf8c19dcd47713fc9181a62cfbad452a5c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_3e8a35516ffb7654ee7a30c60b5e39817ecfe1d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Pankaj\AndroidStudioProjects\ContextMenuExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_99a5272397dbffb5be57a7348a2a41f25726e5f7.jar" />
+    </item>
+
+</items>
